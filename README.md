@@ -25,7 +25,3 @@ python stock_analysis.py
 - `stock_analysis.ipynb` (if created) and `stock_analysis.py`
 - `data/AAPL_MSFT_sample.csv` (for offline runs)
 - `requirements.txt`
-
-## Resume bullets
-- Built an end-to-end stock analytics pipeline using Python (Pandas/matplotlib) to compute returns, volatility, and cross-asset correlations; documented insights with clear visuals.
-- Implemented robust data ingestion with API fallback and caching for reproducibility.
